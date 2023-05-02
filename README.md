@@ -1,13 +1,14 @@
-# ARMA-3-OPTRE-The-library
-Arma 3 - OPTRE  The library ( ONLY FOR ZEUS MISSION )
+# ARMA-3-Armasouls
+Arma 3 - Mission Files ( ONLY FOR ZEUS MISSION )
 
 **The library mission file:**
 *For important things -->*-!!!-*
  
 > >Modpack name: Arma_3_Preset_Darkfantasy 
 
-> Mission files: ??  *( You need to extract the files from .RAR)*
->
+> Mission files: *( You need to extract the files from .RAR)*
+-Darksouls PT1 
+-Darksouls PT2 
 
 > -!!!-ONLY FOR ZEUS TYPE MISSION
 
