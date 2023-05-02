@@ -26,5 +26,4 @@ You can write the text in the "Signs" through the "Stonepath" props, you can cha
 
 > -!!!- *In case of random FPS drop: You need to return in the mission lobby and rejoin in the match. *
 
-> -Ready module, if you write "ready" in game chat. You are teleported to your Team Leader.
 
