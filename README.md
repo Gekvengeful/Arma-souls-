@@ -18,6 +18,7 @@ Arma 3 - Mission Files ( ONLY FOR ZEUS MISSION )
 > -!!!- Tree monster ( No scripted , the zeus need to turn on simulation manually to activate the unit ).
 
 > -Darksouls Signs texture : Yellow, White, Red.
+You can write the text in the "Signs" through the "Stonepath" props, you can change the text in the "HOLD ACTION" settings.
 
 > -Loot system
 
@@ -27,4 +28,3 @@ Arma 3 - Mission Files ( ONLY FOR ZEUS MISSION )
 
 > -Ready module, if you write "ready" in game chat. You are teleported to your Team Leader.
 
-> -!!!-:
